@@ -632,8 +632,9 @@
 
   - _Korok::F24
 
-  - _Korok::F23:
-      presets: _Discover<サージョン橋>
+  - _Location::SarjonBridge
+
+  - _Korok::F23
 
   - _chest::special<ファントムガノン鎧>:
       comment: .lime(F23)の途中に取得
